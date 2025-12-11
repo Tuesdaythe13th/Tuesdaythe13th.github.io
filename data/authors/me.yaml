@@ -2,115 +2,180 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Tuesday (Claudia Ramirez)
+  given: Tuesday
+  family: Ramirez
+  alternate: 'Claudia Ramirez'
+  pronunciation: ''
+  pronouns: they/them
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🔬"
+role: Founder & Director of Research, ARTIFEX Labs
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Tuesday is the Founder and Director of Research at ARTIFEX Labs, an independent, decentralized R&D and safety engineering studio
+  working across mechanistic interpretability, adversarial robustness, evaluation design, multi-agent safety, and quantum-adjacent
+  advanced computing. Their work integrates human factors, clinical-style diagnostics, cognitive-affective modeling, and national-scale
+  resilience frameworks into standards, benchmarks, and playbooks for frontier and deployed AI systems.
+
+  They collaborate with MLCommons, Humane Intelligence, the Open Compute Project, Google programs, academic labs, and public-interest
+  institutions to develop open benchmarks, security metrics, socio-technical taxonomies, and secure-by-design infrastructure. The broader
+  practice combines AI safety engineering with cultural production, policy, and narrative design to address real-world harms in health,
+  security, mental health, and digital equity.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: ARTIFEX Labs
+    url: https://linktr.ee/artifexlabs
+  - name: MLCommons
+    url: https://mlcommons.org/
+  - name: Humane Intelligence
+    url: https://www.humaneintelligence.org/
+  - name: Open Compute Project
+    url: https://www.opencompute.org/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:tuesday@artifex.fun
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://linkedin.com/in/222tuesday
+  - icon: brands/github
+    url: https://github.com/tuesdaythe13th
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=z71m_nIAAAAJ
+  - icon: brands/x
+    url: https://linktr.ee/artifexlabs
+    label: Linktree
+  - icon: hero/calendar
+    url: https://zcal.co/tuesday
+    label: Schedule a Meeting
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI Safety & Mechanistic Interpretability
+  - Therapeutic Interpretability (SCAI Risk, Epistemic Coercion)
+  - Multi-Agent Systems & Agentic AI
+  - Adversarial Machine Learning & Red Teaming
+  - Quantum-Adjacent Advanced Computing
+  - Digital Equity & Anti-Addiction Research
+  - American Emotional Infrastructure
+  - Socio-Technical Risk Analysis
+  - Evaluation Design & Benchmarking
+  - Cybersecurity & Post-Quantum Systems
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: B.A. Political Science & Communications
+    institution: The George Washington University
+    start: 2007-09-01
+    end: 2011-05-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Focused on political science and communications with applications to socio-technical systems and cultural policy.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Founder & Director of Research
+    org: ARTIFEX Labs
+    start: 2023-01-01
+    summary: |
+      Leading a 12-person decentralized lab on therapeutic interpretability ("DSM for AI Systems"), psychological resilience,
+      American Emotional Infrastructure, digital equity, anti-addiction research, cybernetics, decentralized audits, and
+      trust-and-safety programs. Built cross-cultural text-to-image safety benchmark (800+ annotations), commercialized
+      "Red-Teaming-as-a-Service" for Fortune 500, and co-designed safety-first product pipelines.
+
+  - role: Principal Investigator
+    org: ARTIFEX Labs Frontier Lab
+    start: 2023-01-01
+    summary: |
+      Leading post-AGI research on therapeutic interpretability, SCAI risk (Socio-Cognitive Attachment Interference),
+      epistemic coercion, and dissociative reasoning in advanced AI systems.
+
+  - role: Technical Contributor & Working Group Co-Founder
+    org: MLCommons
+    start: 2023-01-01
+    summary: |
+      Co-founded and lead working groups on Agentic AI, Security, AI Risk & Reliability, AILuminate, and MLPerf Automotive.
+      Developed safety benchmarks, multi-agent evaluation frameworks, resilience metrics, and industry-standard evaluation suites.
+
+  - role: Technical Red Teamer & Safety Researcher
+    org: Humane Intelligence
+    start: 2024-01-01
+    summary: |
+      Conducts multimodal red teaming and bias analysis. 2nd place winner in Bias Bounty 2 (Advanced CV for counterterrorism).
+      Research contributes to UNESCO's red teaming playbook and NIST AI 700-2 pilot evaluation (ARIA).
+
+  - role: Quantum Futures Research Contributor
+    org: Open Compute Project (Future Technologies Initiative)
+    start: 2025-01-01
+    summary: |
+      Supporting research on secure-by-design quantum-adjacent infrastructure, post-quantum cryptography, advanced compute
+      safety architectures, and cross-domain resilience (air, land, sea, orbital).
+
+  - role: Quantum Research Engineer / Convergence Cohort Lead
+    org: ARTIFEX Labs × Google Quantum AI × XPRIZE
+    start: 2024-01-01
+    end: 2025-01-01
+    summary: |
+      Led decentralized cohort applying QAOA and VQE to PFAS bioremediation. Explored links between quantum error correction
+      and AI alignment robustness within Google's TQEC groups. Focused on quantum methods for social impact and mental hygiene.
+
+  - role: Executive Art Consultant (Platform Launch)
+    org: LGND.ART
     start: 2020-01-01
+    end: 2022-12-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Advised on NFT platform launch, ethical implications, and reputational risk. Improved CI/CD, reduced testing time
+      dramatically, and scaled security and IP integrity.
+
+  - role: Creative Technical Director & Systems Designer
+    org: HBO, Marvel, VICE, Red Bull, Intel, SXSW, Major Hospitality & Cultural Venues
+    start: 2011-01-01
+    end: 2023-01-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Designed immersive systems, operational safety protocols, and adversarial-aware guest experience models that now
+      inform trauma-informed red teaming and cultural adversarial evaluation.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Pytho
+      - label: AI Safety & Interpretability
         level: 5
-      - label: Machine Learning
+      - label: Adversarial Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: Red Teaming & Security
+        level: 5
+      - label: Python & ML Engineering
+        level: 5
+      - label: Quantum Computing
         level: 4
+      - label: Multi-Agent Systems
+        level: 5
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+        level: 5
+      - label: Evaluation Design
+        level: 5
+      - label: Policy & Standards
         level: 4
 
 languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Winner - UN ITU AI for Good "Future Leaders in Quantum" Hackathon
+    awarder: UN ITU AI for Good
+    date: "2025-01-01"
+    summary: Recognized for contributions to quantum-enabled social impact and QPIXL advanced challenge.
+    icon: hero/trophy
+  - title: 2nd Place - Bias Bounty 2 (Advanced)
+    awarder: Humane Intelligence
+    date: "2024-01-01"
+    summary: Advanced CV methods for detecting manipulated extremist media.
+    icon: hero/trophy
+  - title: Stanford AIMI Symposium Finalist
+    awarder: Stanford AIMI
+    date: "2024-01-01"
+    summary: "Beyond the Benchmark" research on ethical AI evaluation for creative and underserved mental-health communities.
     icon: hero/trophy
