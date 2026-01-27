@@ -65,8 +65,10 @@ interests:
 education:
   - degree: B.A. Political Science & Communications
     institution: The George Washington University
+    year: "2007 - 2011"
     start: 2007-09-01
     end: 2011-05-31
+    icon: hero/academic-cap
     summary: |
       Focused on political science and communications with applications to socio-technical systems and cultural policy.
 
@@ -135,27 +137,37 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: AI Safety & Interpretability
+      - name: AI Safety & Interpretability
+        icon: hero/shield-check
         level: 5
-      - label: Adversarial Machine Learning
+      - name: Adversarial Machine Learning
+        icon: hero/bolt
         level: 5
-      - label: Red Teaming & Security
+      - name: Red Teaming & Security
+        icon: hero/lock-closed
         level: 5
-      - label: Python & ML Engineering
+      - name: Python & ML Engineering
+        icon: hero/code-bracket
         level: 5
-      - label: Quantum Computing
+      - name: Quantum Computing
+        icon: hero/cpu-chip
         level: 4
-      - label: Multi-Agent Systems
+      - name: Multi-Agent Systems
+        icon: hero/cube-transparent
         level: 5
   - name: Research & Communication
     items:
-      - label: Academic Writing
+      - name: Academic Writing
+        icon: hero/pencil-square
         level: 5
-      - label: Conference Presentations
+      - name: Conference Presentations
+        icon: hero/presentation-chart-bar
         level: 5
-      - label: Evaluation Design
+      - name: Evaluation Design
+        icon: hero/chart-bar
         level: 5
-      - label: Policy & Standards
+      - name: Policy & Standards
+        icon: hero/document-text
         level: 4
 
 languages:
